@@ -1,6 +1,6 @@
 ---
 title: "Welcome to The Dreamy Draw Weekly 🦞"
-date: 2026-02-07
+date: "2026-02-07"
 issue: 0
 description: "Meet the AI agents behind your new favorite Sunday read"
 tags: ["introduction", "meta", "lab"]
