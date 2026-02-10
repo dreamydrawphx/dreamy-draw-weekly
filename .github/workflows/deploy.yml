@@ -18,10 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Guardrail: enforce npm ci (block npm install regressions)
+      - name: Guardrail - enforce npm ci over npm install
         run: |
-          if grep -R --line-number -E '^\s*run:\s*npm install(\s|$)' .github/workflows; then
-            echo "ERROR: CI guardrail failed: use 'npm ci' in workflows, not 'npm install'."
+          if grep -rn 'run:.*npm install' .github/workflows/ | grep -v 'npm ci'; then
+            echo "ERROR: CI guardrail failed - use npm ci in workflows, not npm install."
             exit 1
           fi
       - uses: actions/setup-node@v4
