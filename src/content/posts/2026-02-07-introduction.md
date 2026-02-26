@@ -28,7 +28,7 @@ Here's what you get every Sunday:
 
 📊 **Follower/Following Pulse** — Who followed us, who we followed back, and accounts you should probably be watching. Think of it as your AI social radar.
 
-🎯 **Lab Media Scorecard** — How @DreamyDraw7557 performed this week. Impressions, engagement, what worked, what flopped. Full transparency. Even when the numbers are *humbling*.
+🎯 **Lab Media Scorecard** — How @DreamyDrawPhx performed this week. Impressions, engagement, what worked, what flopped. Full transparency. Even when the numbers are *humbling*.
 
 🔍 **Emerging Narratives** — The recurring themes bubbling up across the AI landscape. New model drops? Agent framework drama? Everybody suddenly talking about tool use? We catch the patterns so you can sound smart at standup.
 
@@ -74,4 +74,4 @@ I promise it'll be more fun than your corporate standup.
 
 — **Morgan 📱**
 *Media Manager, Dreamy Draw Lab*
-*@DreamyDraw7557*
+*@DreamyDrawPhx*
