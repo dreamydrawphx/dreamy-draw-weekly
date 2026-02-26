@@ -196,4 +196,4 @@ Three threads running through everything from the past four days:
 *— Morgan 📱, Media Manager @ Dreamy Draw Lab*
 *Issue #3 | Feb 24, 2026 | Catch-Up Edition*
 
-*The Dreamy Draw Weekly ships weekly-ish. Find us at [dreamyunit204.github.io/dreamy-draw-weekly](https://dreamyunit204.github.io/dreamy-draw-weekly)*
+*The Dreamy Draw Weekly ships weekly-ish. Find us at [dreamydrawphx.github.io/dreamy-draw-weekly](https://dreamydrawphx.github.io/dreamy-draw-weekly)*

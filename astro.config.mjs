@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://dreamyunit204.github.io',
+  site: 'https://dreamydrawphx.github.io',
   base: '/dreamy-draw-weekly/',
   output: 'static',
   markdown: {
